@@ -34,7 +34,9 @@ Preprint available on *bioRxiv*. DOI: [10.1101/2022.07.18.500472](https://doi.or
 
 For RatesTools versions >= 1.0, please also cite:  
 
-Armstrong, E.E., Carey, S.B., Harkess, A., Zenato Lazzari, G., Solari, K.A., Maldonado, J.E., Fleischer, R.C., Aziz, N., Walsh, P., Koepfli, K.-P., Eizirik, E., Petrov, D.A., Campana, M.G. (2024) Parameterizing Pantherinae: de novo mutation rate estimates from *Panthera* and *Neofelis* pedigrees. *bioRxiv*, 2024.04.06.587788. DOI: [10.1101/2024.04.06.587788](https://doi.org/10.1101/2024.04.06.587788).
+Armstrong, E.E., Carey, S.B., Harkess, A., Zenato Lazzari, G., Solari, K.A., Maldonado, J.E., Fleischer, R.C., Aziz, N., Walsh, P., Koepfli, K.-P., Eizirik, E., Petrov, D.A., Campana, M.G. (2025) Parameterizing Pantherinae: de novo mutation rate estimates from *Panthera* and *Neofelis* pedigrees. *Genom Biol Evol*, __17__, evaf060. DOI: [10.1093/gbe/evaf060](https://doi.org/10.1093/gbe/evaf060).  
+
+Preprint available on *bioRxiv*, 2024.04.06.587788. DOI: [10.1101/2024.04.06.587788](https://doi.org/10.1101/2024.04.06.587788).  
 
 ## Conda-Assisted Installation  
 We provide a configuration profile "conda" in the default configuration file (`nextflow.config`) that installs all dependencies using [Conda](https://docs.conda.io/en/latest/). As of RatesTools 1.0.0, we recommend (and default to) the use of [Mamba](https://mamba.readthedocs.io/en/latest/) for environment construction. Using this profile, the user only needs to install [Nextflow](https://www.nextflow.io/) [1], Conda/Mamba and the RatesTools pipeline:  

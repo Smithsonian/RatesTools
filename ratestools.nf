@@ -1,7 +1,7 @@
 #!/usr/bin/env nextflow
 
-/* RatesTools version 1.2.4
-Michael G. Campana and Ellie E. Armstrong, 2020-2024
+/* RatesTools version 1.2.5
+Michael G. Campana and Ellie E. Armstrong, 2020-2026
 Smithsonian Institution and Stanford University
 
 CC0: To the extent possible under law, the Smithsonian Institution and Stanford 
@@ -353,7 +353,7 @@ process repeatModeler {
 	path(refseq_masked)
 	
 	output:
-	path "**consensi.fa.classified"
+	path "*/consensi.fa.classified"
 	
 	"""
 	BuildDatabase -name ${refseq_masked.baseName}-soft ${refseq_masked}

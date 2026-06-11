@@ -2,7 +2,7 @@
 
 <img align="right" src="NZP-20141024-032CPM_thumb.jpg">  
 
-__Michael G. Campana and Ellie E. Armstrong, 2019-2024__  
+__Michael G. Campana and Ellie E. Armstrong, 2019-2026__  
 Smithsonian Institution  
 Stanford University  
 

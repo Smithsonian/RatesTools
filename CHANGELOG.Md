@@ -1,5 +1,5 @@
 # CHANGE LOG  
-Michael G. Campana & Ellie E. Armstrong, 2019-2024  
+Michael G. Campana & Ellie E. Armstrong, 2019-2026  
 Smithsonian Institution  
 Stanford University  
 
@@ -401,6 +401,9 @@ First version integrated into pipeline
 Initial script (plotDPGQ-clean.R)  
 
 ## ratestools  
+### Version 1.2.5  
+Updated repeatModeler process to remove '**' in path  
+
 ### Version 1.2.1  
 Fixed region filter bypass bgzip bug  
 
